@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://ani-verse-web.vercel.app/sitemap.xml
